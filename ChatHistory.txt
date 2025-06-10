@@ -1,5 +1,0 @@
-Sender: Cherry44
-Receiver: Jennifer88
-Message: Hi! How are you ?
-Time Sent: Tue Jun 10 10:48:05 2025
------------------------------
