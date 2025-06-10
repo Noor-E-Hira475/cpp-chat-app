@@ -70,6 +70,7 @@ int main() {
         switch (choice) {
             case 1:
                 addNewUser(userList);
+                userList.saveUsersToFile("User.txt"); 
                 break;
             case 2:
                 sendMessage(userList);
