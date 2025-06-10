@@ -1,0 +1,50 @@
+Sender: Cherry22
+Receiver: Jennifer77
+Message: Hi! How are you?
+Time Sent: Sat Oct 19 19:38:10 2024
+-----------------------------
+Sender: Kimbi93
+Receiver: John34
+Message: Where are you?
+Time Sent: Sat Oct 19 19:40:31 2024
+-----------------------------
+Sender: defaultSender
+Receiver: Cherry22
+Message: Hi! Let's Code.
+Time Sent: Tue Apr 08 21:34:11 2025
+-----------------------------
+Sender: defaultSender
+Receiver: Cherry22
+Message: Hi! Let's Code.
+Time Sent: Tue Apr 08 21:34:38 2025
+-----------------------------
+Sender: defaultSender
+Receiver: Cherry22
+Message: Irritation
+Time Sent: Tue Apr 08 21:39:46 2025
+-----------------------------
+Sender: defaultSender
+Receiver: John34
+Message: What's happened?
+Time Sent: Tue Apr 08 21:50:21 2025
+-----------------------------
+Sender: Crystal4475
+Receiver: Kimbi93
+Message: Wasted time only!
+Time Sent: Tue Apr 08 22:12:28 2025
+-----------------------------
+Sender: John34
+Receiver: Cherry22
+Message: Why are you late?
+Time Sent: Tue Apr 08 22:15:02 2025
+-----------------------------
+Sender: Jennifer77
+Receiver: John34
+Message: Hey! How are you?
+Time Sent: Tue Jun 10 09:36:09 2025
+-----------------------------
+Sender: Jennifer77
+Receiver: Cherry22
+Message: I'm great, wbu?
+Time Sent: Tue Jun 10 09:39:12 2025
+-----------------------------
